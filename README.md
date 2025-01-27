@@ -14,7 +14,7 @@ https://gamgul-talk.streamlit.app/
 데이터: 신한카드 가맹점 이용 데이터, 제주 관광공사 관광 데이터, 크롤링 데이터
 핵심 기능: 자연어 기반 요청 이해, 최적 맛집 추천
 
-![image](https://github.com/user-attachments/assets/b76368a6-7132-4d9f-bfbe-0ebf17eb1aa7)
+![image](https://github.com/user-attachments/assets/5798ed46-cef6-4d84-8133-374af2e65b8b)
 
 메뉴 및 가격 검색 기능: 냉면, 10000원 이하 등
 네이버 지도 링크 제공
